@@ -6,7 +6,7 @@
 
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italocampo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocampo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocampo&hide_progress=true&locale=pt-br)
 
 ### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br>
