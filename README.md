@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Ítalo Campos
 
-- 💻 Backend
-- 📕 Estudando Automação usando n8n e Python
-- 🙂 Pronouns: ele/dele
+- 💻 Dev Full Stack
+- 📕 Trabalho com automação usando n8n
+
 
 <div>
   <a href="https://italocampo.github.io/meu-portfolio">
