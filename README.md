@@ -1,6 +1,6 @@
 - 💻  Analista de Sistemas
 - 💻 Dev Full Stack
-- 📕 Trabalho consrtuindo Agentes de IA usando n8n
+- 📕 Trabalho desenvolvendo Agentes de IA usando n8n
 
 
 <div>
