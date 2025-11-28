@@ -1,5 +1,4 @@
-### Olá!! Eu sou o Ítalo Campos
-
+- 💻  Analista de Sistemas
 - 💻 Dev Full Stack
 - 📕 Trabalho com automação usando n8n
 
