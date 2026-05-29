@@ -1,6 +1,4 @@
-- 💻 Analista de Sistemas
-- 💻 Dev Full Stack
-- 📕 Trabalho desenvolvendo Agentes de IA usando n8n
+Dev Full Stack | IA & Automação | n8n · Node.js · TypeScript
 
 
 <div>
