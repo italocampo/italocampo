@@ -1,4 +1,10 @@
-Dev Full Stack | IA & Automação | n8n · Node.js · TypeScript
+### Olá, sou o Ítalo 👋
+Dev Full Stack especializado em IA e automação de processos.
+Atualmente construo agentes de IA integrados ao WhatsApp para
+consulta de dados corporativos em linguagem natural.
+
+🔧 Stack: Node.js · TypeScript · React · PostgreSQL · n8n · LLMs
+📍 Fortaleza, CE
 
 
 <div>
